@@ -16,3 +16,9 @@
 - Materials: PLA for prototyping, PETG for durability.
 
 ![2020-3way.jpg](usage/2020-3way.jpg)
+
+## 2020-t-bracket.stl
+- Designed to be used with 2020 aluminum extrusion
+- Can hold 2 pieces of extrusion at 90 degree angles to each other (using M3 screws and T-nuts)
+- Printed flat side down with no supports (Bambu Lab Standard mode, approx. 20 minute print time)
+- Materials: PLA for prototyping, PETG for durability.
