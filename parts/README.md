@@ -14,3 +14,5 @@
 - Can hold 3 pieces of extrusion at 90 degree angles to each other (using M3 screws and T-nuts)
 - Printed flat side down with no supports (Bambu Lab Standard mode, approx. 15 minute print time)
 - Materials: PLA for prototyping, PETG for durability.
+
+![2020-3way.jpg](usage/2020-3way.jpg)
